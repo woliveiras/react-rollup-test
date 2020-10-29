@@ -53,10 +53,13 @@
     "@rollup/plugin-commonjs": "^16.0.0",
     "@rollup/plugin-image": "^2.0.5",
     "@rollup/plugin-node-resolve": "^10.0.0",
+    "babel-plugin-inline-react-svg": "^1.1.1",
+    "babel-plugin-styled-components": "^1.11.1",
     "rollup": "^2.32.1",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-postcss": "^3.1.8",
+    "rollup-plugin-url": "^3.0.1",
     "rollup-plugin-visualizer": "^4.1.2"
   }
 }
